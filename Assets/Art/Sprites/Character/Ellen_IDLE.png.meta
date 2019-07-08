@@ -1,64 +1,52 @@
 fileFormatVersion: 2
-guid: 8dd9238263ae3c74182f71dd164680ad
+guid: 9c1d6a0ef82684a4c9660823f9c7ef71
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7460046300004610927
-    second: Jump_0
+      213: -6015344270428300540
+    second: Ellen_IDLE_0
   - first:
-      213: 7034338576483803127
-    second: Jump_1
+      213: 1212320872316598113
+    second: Ellen_IDLE_1
   - first:
-      213: 6054277451648750542
-    second: Jump_2
+      213: 7860010058120252685
+    second: Ellen_IDLE_2
   - first:
-      213: 6937500446539429301
-    second: Jump_3
+      213: -2325588891834328747
+    second: Ellen_IDLE_3
   - first:
-      213: 3580086529375993838
-    second: Jump_4
+      213: -9206281083490675335
+    second: Ellen_IDLE_4
   - first:
-      213: 3630178267427638470
-    second: Jump_5
+      213: 4388555328675897266
+    second: Ellen_IDLE_5
   - first:
-      213: 3900142949445631465
-    second: Jump_6
+      213: 2121290539848035515
+    second: Ellen_IDLE_6
   - first:
-      213: 3967418731061993063
-    second: Jump_7
+      213: -2717461595443537187
+    second: Ellen_IDLE_7
   - first:
-      213: 3330681223243198311
-    second: Jump_8
+      213: -4370304336782221333
+    second: Ellen_IDLE_8
   - first:
-      213: -5679318689324892672
-    second: Jump_9
+      213: -9209131691876681173
+    second: Ellen_IDLE_9
   - first:
-      213: 8986021004954451436
-    second: Jump_10
+      213: 6060857449234618474
+    second: Ellen_IDLE_10
   - first:
-      213: -7810803537696417755
-    second: Jump_11
+      213: -6452849408407495628
+    second: Ellen_IDLE_11
   - first:
-      213: 7239986427860625178
-    second: Jump_12
+      213: -3328546111168101100
+    second: Ellen_IDLE_12
   - first:
-      213: -3499918286812187939
-    second: Jump_13
+      213: -2797039286217249363
+    second: Ellen_IDLE_13
   - first:
-      213: -141085772950971166
-    second: Jump_14
-  - first:
-      213: -3388347748468855017
-    second: Jump_15
-  - first:
-      213: 8889825631758111734
-    second: Jump_16
-  - first:
-      213: -1196279927365578947
-    second: Jump_17
-  - first:
-      213: -5551465295274767572
-    second: Jump_18
+      213: 818854356073661052
+    second: Ellen_IDLE_14
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -152,328 +140,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jump_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1827
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe97ddd80830cdc4eb93965460c9b876
-      internalID: 7460046300004610927
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_1
-      rect:
-        serializedVersion: 2
-        x: 807
-        y: 1827
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b124bd2df9fc35248be2b8a68e80a4dd
-      internalID: 7034338576483803127
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_2
-      rect:
-        serializedVersion: 2
-        x: 1614
-        y: 1827
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b7117205c8377084fab540003483b1b3
-      internalID: 6054277451648750542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_3
-      rect:
-        serializedVersion: 2
-        x: 2421
-        y: 1827
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1e78a636a0f402468278883e59a8a45
-      internalID: 6937500446539429301
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_4
-      rect:
-        serializedVersion: 2
-        x: 3228
-        y: 1827
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fd9a33ffa0b8aee46910791715cd0224
-      internalID: 3580086529375993838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1218
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4d04cfd89545f74d987a95fc056578e
-      internalID: 3630178267427638470
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_6
-      rect:
-        serializedVersion: 2
-        x: 807
-        y: 1218
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc26ad03d3b1b294386e3ff57be582e6
-      internalID: 3900142949445631465
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_7
-      rect:
-        serializedVersion: 2
-        x: 1614
-        y: 1218
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fbc75fce220723446add29c6539ba348
-      internalID: 3967418731061993063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_8
-      rect:
-        serializedVersion: 2
-        x: 2421
-        y: 1218
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4618d9fffb0b39243baa24d87e8b1e09
-      internalID: 3330681223243198311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_9
-      rect:
-        serializedVersion: 2
-        x: 3228
-        y: 1218
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 449e980ef54658241a0383eae293dcca
-      internalID: -5679318689324892672
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_10
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 609
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 733d930cb06199b40b7df727881d9e41
-      internalID: 8986021004954451436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_11
-      rect:
-        serializedVersion: 2
-        x: 807
-        y: 609
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddb075a407ad59a46992b43ffea0e501
-      internalID: -7810803537696417755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_12
-      rect:
-        serializedVersion: 2
-        x: 1614
-        y: 609
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a63339a4c35fdc4193488e6a7afaf6b
-      internalID: 7239986427860625178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_13
-      rect:
-        serializedVersion: 2
-        x: 2421
-        y: 609
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af11d40f1f6cd414eaf8e5517e3baba1
-      internalID: -3499918286812187939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_14
-      rect:
-        serializedVersion: 2
-        x: 3228
-        y: 609
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07d49925c421bd541a976ddf4021110e
-      internalID: -141085772950971166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_15
+      name: Ellen_IDLE_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 807
-        height: 609
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -481,20 +154,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c75b4f8c7827cd4588f64b16d3ac2cd
-      internalID: -3388347748468855017
+      spriteID: 151e84aea948fdb4397c0d18b98a2285
+      internalID: -6015344270428300540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_16
+      name: Ellen_IDLE_1
       rect:
         serializedVersion: 2
-        x: 807
+        x: 333
         y: 0
-        width: 807
-        height: 609
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,20 +175,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f88ead9b9470b6d4c9e615a1c8fd86fa
-      internalID: 8889825631758111734
+      spriteID: 72a642e9d817bb44d9ab2f92d1bd6947
+      internalID: 1212320872316598113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_17
+      name: Ellen_IDLE_2
       rect:
         serializedVersion: 2
-        x: 1614
+        x: 666
         y: 0
-        width: 807
-        height: 609
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,20 +196,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bbf82b93e4a8c34e9e6eacb764934c3
-      internalID: -1196279927365578947
+      spriteID: 85dff131f3a043e41905601fcf78ee1f
+      internalID: 7860010058120252685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_18
+      name: Ellen_IDLE_3
       rect:
         serializedVersion: 2
-        x: 2421
+        x: 999
         y: 0
-        width: 807
-        height: 609
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,8 +217,239 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e1aa49c2db0b64448cf518dafdb71a4
-      internalID: -5551465295274767572
+      spriteID: cea02f89b33803a499c3b8a9097c6670
+      internalID: -2325588891834328747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73c7ed916d46904cbd60e58f08b1f6f
+      internalID: -9206281083490675335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_IDLE_5
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98281ce2017f1042a11853f8dc4c815
+      internalID: 4388555328675897266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e108d4bda61c273449f46d18f95cf304
+      internalID: 2121290539848035515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429abf8b8c643d546907836dc019f076
+      internalID: -2717461595443537187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_IDLE_8
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aea5782a6bc67428f6e58092cdf8a6
+      internalID: -4370304336782221333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_IDLE_9
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1d25c9b0e31114e825ef285475faf5
+      internalID: -9209131691876681173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_IDLE_10
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ea898ca9d340c4296d590686677263
+      internalID: 6060857449234618474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_IDLE_11
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3f987f9c990af49b500318eef3e64d
+      internalID: -6452849408407495628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_IDLE_12
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b926678ffbe3c7c4590e353721a45080
+      internalID: -3328546111168101100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_IDLE_13
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225b3ef4ad89eec43912d6cfee718c46
+      internalID: -2797039286217249363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_IDLE_14
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd8e6cf47ba75d4e881e3c17cbbef0c
+      internalID: 818854356073661052
       vertices: []
       indices: 
       edges: []
@@ -553,7 +457,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 6f16b9338806db446b15fadf88a93309
+    spriteID: 5a387f082cd4c9a47a8702c532196dda
     internalID: 0
     vertices: []
     indices: 

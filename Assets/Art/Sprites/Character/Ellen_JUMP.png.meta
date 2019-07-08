@@ -1,52 +1,64 @@
 fileFormatVersion: 2
-guid: 15257c321f532e44aa2f28b4dbf6b6c0
+guid: be2e2a2151af0e5439e9a36b27bd724f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4723107735738678597
-    second: Idle_0
+      213: -6279999621805798579
+    second: Ellen_JUMP_0
   - first:
-      213: -7385789195546760866
-    second: Idle_1
+      213: -8612283498632405870
+    second: Ellen_JUMP_1
   - first:
-      213: 3234629978573100161
-    second: Idle_2
+      213: -7718432196697874952
+    second: Ellen_JUMP_2
   - first:
-      213: 6373048116405451881
-    second: Idle_3
+      213: -4863676643761822733
+    second: Ellen_JUMP_3
   - first:
-      213: 7264182050183361747
-    second: Idle_4
+      213: 105122886798856452
+    second: Ellen_JUMP_4
   - first:
-      213: -2834552850196481573
-    second: Idle_5
+      213: -7676906992417846311
+    second: Ellen_JUMP_5
   - first:
-      213: 3278449094680734212
-    second: Idle_6
+      213: -8823309059016916162
+    second: Ellen_JUMP_6
   - first:
-      213: 3384493420599841878
-    second: Idle_7
+      213: -4469045156506311843
+    second: Ellen_JUMP_7
   - first:
-      213: -2331352242086191015
-    second: Idle_8
+      213: 7908377384296609488
+    second: Ellen_JUMP_8
   - first:
-      213: -3914248031228685145
-    second: Idle_9
+      213: 7892290537571418541
+    second: Ellen_JUMP_9
   - first:
-      213: 7132915409514813599
-    second: Idle_10
+      213: -8124311439290482058
+    second: Ellen_JUMP_10
   - first:
-      213: -2055793278435719954
-    second: Idle_11
+      213: 2147401966841110594
+    second: Ellen_JUMP_11
   - first:
-      213: -1133706752296058015
-    second: Idle_12
+      213: 329037507529418989
+    second: Ellen_JUMP_12
   - first:
-      213: -7873313509577613512
-    second: Idle_13
+      213: 6586178823742816711
+    second: Ellen_JUMP_13
   - first:
-      213: 719741960001666856
-    second: Idle_14
+      213: -9099752363247582438
+    second: Ellen_JUMP_14
+  - first:
+      213: 3475445113835888969
+    second: Ellen_JUMP_15
+  - first:
+      213: 5174693934895951485
+    second: Ellen_JUMP_16
+  - first:
+      213: 7915804805695703813
+    second: Ellen_JUMP_17
+  - first:
+      213: -8597571964048095916
+    second: Ellen_JUMP_18
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -140,13 +152,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle_0
+      name: Ellen_JUMP_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1218
-        width: 807
-        height: 609
+        y: 589
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dc79c9ad0a98324b9edf27ab75f86e7
-      internalID: 4723107735738678597
+      spriteID: ca5e3eb0d606e4f468d05f556fc0d8b5
+      internalID: -6279999621805798579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_1
+      name: Ellen_JUMP_1
       rect:
         serializedVersion: 2
-        x: 807
-        y: 1218
-        width: 807
-        height: 609
+        x: 333
+        y: 589
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80f42c9b432e93d4e986fd243c76a054
-      internalID: -7385789195546760866
+      spriteID: d9bd332573de11246925bfd9f8e55fa5
+      internalID: -8612283498632405870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_2
+      name: Ellen_JUMP_2
       rect:
         serializedVersion: 2
-        x: 1614
-        y: 1218
-        width: 807
-        height: 609
+        x: 666
+        y: 589
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15dc56109199b45498c1f850bfa6bf32
-      internalID: 3234629978573100161
+      spriteID: 73d4cc613c835354ab55c1dca1698b27
+      internalID: -7718432196697874952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_3
+      name: Ellen_JUMP_3
       rect:
         serializedVersion: 2
-        x: 2421
-        y: 1218
-        width: 807
-        height: 609
+        x: 999
+        y: 589
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97603672d81cfd94bbc189f42e04fc30
-      internalID: 6373048116405451881
+      spriteID: 02c6d0910a27ebd45b6f644a29daf86b
+      internalID: -4863676643761822733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_4
+      name: Ellen_JUMP_4
       rect:
         serializedVersion: 2
-        x: 3228
-        y: 1218
-        width: 807
-        height: 609
+        x: 1332
+        y: 589
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,125 +250,167 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae6ced3b3303db247a54516f7cd46bee
-      internalID: 7264182050183361747
+      spriteID: 074a2578024f286498bb7f08b9405274
+      internalID: 105122886798856452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_5
+      name: Ellen_JUMP_5
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 589
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3185741d657ad1419eacc2977771338
+      internalID: -7676906992417846311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_JUMP_6
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 589
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c670f3d8dd92a4c95f1e248849ba17
+      internalID: -8823309059016916162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_JUMP_7
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 589
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eb6a8af73159143a6f227c234de3e5
+      internalID: -4469045156506311843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_JUMP_8
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 589
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb3ca914b1e0bd478e0e47ecdeacb9c
+      internalID: 7908377384296609488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_JUMP_9
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 589
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3c3817fce786e49b669e3f8626d052
+      internalID: 7892290537571418541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_JUMP_10
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 589
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b4f245cfb7bfe449c56182e5bcb801
+      internalID: -8124311439290482058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_JUMP_11
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 589
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15585576505226d489c4c95de87d59ad
+      internalID: 2147401966841110594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_JUMP_12
       rect:
         serializedVersion: 2
         x: 0
-        y: 609
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4cd7f4b02e7a50d418c110ae3d57a687
-      internalID: -2834552850196481573
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle_6
-      rect:
-        serializedVersion: 2
-        x: 807
-        y: 609
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 297173fa51a474c44b7642631ee2e430
-      internalID: 3278449094680734212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle_7
-      rect:
-        serializedVersion: 2
-        x: 1614
-        y: 609
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 518a14c1f7c0b7b4dbae68c08739b93e
-      internalID: 3384493420599841878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle_8
-      rect:
-        serializedVersion: 2
-        x: 2421
-        y: 609
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b49d55f3331bc047b4335b5432a99d8
-      internalID: -2331352242086191015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle_9
-      rect:
-        serializedVersion: 2
-        x: 3228
-        y: 609
-        width: 807
-        height: 609
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e0bb87e7238e5f45b3ce8ee45a809d1
-      internalID: -3914248031228685145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Idle_10
-      rect:
-        serializedVersion: 2
-        x: 0
         y: 0
-        width: 807
-        height: 609
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -364,20 +418,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac7deaf765e76b643aa63609bb1cbb3d
-      internalID: 7132915409514813599
+      spriteID: ce49813af0b16d04a97badeedefafcf2
+      internalID: 329037507529418989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_11
+      name: Ellen_JUMP_13
       rect:
         serializedVersion: 2
-        x: 807
+        x: 333
         y: 0
-        width: 807
-        height: 609
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -385,20 +439,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 696732dbbd230344cabc715916fc52ca
-      internalID: -2055793278435719954
+      spriteID: d7309ddef22e97a42a31a29d37f52d0e
+      internalID: 6586178823742816711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_12
+      name: Ellen_JUMP_14
       rect:
         serializedVersion: 2
-        x: 1614
+        x: 666
         y: 0
-        width: 807
-        height: 609
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,20 +460,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 015c6246e995f5249b63d50e1df25432
-      internalID: -1133706752296058015
+      spriteID: a6af0f3e448d3a947b20468cd839edcf
+      internalID: -9099752363247582438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_13
+      name: Ellen_JUMP_15
       rect:
         serializedVersion: 2
-        x: 2421
+        x: 999
         y: 0
-        width: 807
-        height: 609
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -427,20 +481,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b225f7cf56daa4849ab915e9c6190976
-      internalID: -7873313509577613512
+      spriteID: 17b367acf0cb2ec40a4570ca533997c0
+      internalID: 3475445113835888969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_14
+      name: Ellen_JUMP_16
       rect:
         serializedVersion: 2
-        x: 3228
+        x: 1332
         y: 0
-        width: 807
-        height: 609
+        width: 333
+        height: 589
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,8 +502,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15e58a55f257db140b38208f66b1a61e
-      internalID: 719741960001666856
+      spriteID: 0962283326bc4384c943034bb3e347b4
+      internalID: 5174693934895951485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_JUMP_17
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38496253dca666449a99d16610fc514
+      internalID: 7915804805695703813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ellen_JUMP_18
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 0
+        width: 333
+        height: 589
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d9e38e10fdc0a40a8403dcacb9c8e7
+      internalID: -8597571964048095916
       vertices: []
       indices: 
       edges: []
@@ -457,7 +553,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 32ec9c627fd07074cb5aa2c716bbb76c
+    spriteID: 6a12c4210075ffc46a2873e6c164e01e
     internalID: 0
     vertices: []
     indices: 
