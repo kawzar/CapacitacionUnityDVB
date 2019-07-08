@@ -41,9 +41,13 @@ public class Player : MonoBehaviour
 
         if (horizontal != 0.0f)
         {
-            Vector3 velocity = new Vector3(speed * horizontal * Time.deltaTime, 0.0f, 0.0f);
-            rb.MovePosition(transform.position + velocity);
-            animator.SetBool("Walking", true);
+            Vector2 velocity = new Vector2(speed * horizontal * Time.deltaTime, rb.velocity.y);
+            rb.velocity = velocity;
+
+            if (isGrounded)
+            {
+                animator.SetBool("Walking", true);
+            }
         }
         else
         {
@@ -54,7 +58,7 @@ public class Player : MonoBehaviour
         {
             sprite.flipX = true;
         }
-        else
+        else if (horizontal >= 0.0f)
         {
             sprite.flipX = false;
         }
@@ -74,6 +78,6 @@ public class Player : MonoBehaviour
 
     private bool CheckIsGrounded()
     {
-        return Physics2D.CircleCast(feet.transform.position, groundCheckRange, Vector2.down, 0.0f, groundMask);
+        return Physics2D.OverlapCircle(feet.transform.position, groundCheckRange, groundMask);
     }
 }
