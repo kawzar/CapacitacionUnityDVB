@@ -5,6 +5,7 @@ public class Player : MonoBehaviour
     private Animator animator;
     private Rigidbody2D rb;
     private SpriteRenderer sprite;
+    private AudioSource audioSource;
 
     private bool isGrounded;
 
@@ -23,6 +24,15 @@ public class Player : MonoBehaviour
     [SerializeField]
     private float groundCheckRange = 10.0f;
 
+    [SerializeField]
+    private AudioClip footstepsAudioClip;
+
+    [SerializeField]
+    private AudioClip jumpAudioClip;
+
+    [SerializeField]
+    private AudioClip landingAudioClip;
+
 
     // Start is called before the first frame update
     void Start()
@@ -30,6 +40,7 @@ public class Player : MonoBehaviour
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
+        audioSource = GetComponent<AudioSource>();
         isGrounded = true;
     }
 
@@ -82,5 +93,23 @@ public class Player : MonoBehaviour
     private bool CheckIsGrounded()
     {
         return Physics2D.OverlapCircle(feet.transform.position, groundCheckRange, groundMask);
+    }
+
+    private void PlayFootstepsSound()
+    {
+        audioSource.clip = footstepsAudioClip;
+        audioSource.Play();
+    }
+
+    private void PlayJumpSound()
+    {
+        audioSource.clip = jumpAudioClip;
+        audioSource.Play();
+    }
+
+    private void PlayLandingSound()
+    {
+        audioSource.clip = landingAudioClip;
+        audioSource.Play();
     }
 }
