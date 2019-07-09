@@ -63,11 +63,14 @@ public class Player : MonoBehaviour
             sprite.flipX = false;
         }
 
+        // Salto
+
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             animator.SetTrigger("Jump");
             animator.SetBool("Grounded", isGrounded);
             rb.AddForce(new Vector2(0.0f, 1.0f * jumpForce));
+            isGrounded = false;
         }
 
 
